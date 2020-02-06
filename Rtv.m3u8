@@ -3,4 +3,4 @@
 
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://epl-inews.mncnow.id/live/eds/RTV/sa_hls/RTV-avc1_1000000=8-mp4a_6690_eng=2.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1581120480~acl=/hls-p/ingest_geo_1561_*/*~hmac=a4bc843e5a4686e42afbadfa5c2774a52e37b55f76323aea1898f7e1db12aad9/hls-p/ingest_geo_1561_720p/index.m3u8
